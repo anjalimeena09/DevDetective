@@ -1,0 +1,12 @@
+
+.card {
+    width: 800px;
+    height: 400px;
+    /* background-color: rgb(67, 4, 63); */
+    background-color: rgb(33, 33, 75);
+    display: flex;
+    padding: 7px;
+    /* border: 1px solid white; */
+    border-radius: 10px;
+  }
+  
