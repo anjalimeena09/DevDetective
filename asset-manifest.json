@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/devdetective/static/css/main.4fb9efaa.css",
+    "main.js": "/devdetective/static/js/main.2856cccb.js",
+    "static/js/453.518a38f5.chunk.js": "/devdetective/static/js/453.518a38f5.chunk.js",
+    "index.html": "/devdetective/index.html",
+    "main.4fb9efaa.css.map": "/devdetective/static/css/main.4fb9efaa.css.map",
+    "main.2856cccb.js.map": "/devdetective/static/js/main.2856cccb.js.map",
+    "453.518a38f5.chunk.js.map": "/devdetective/static/js/453.518a38f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fb9efaa.css",
+    "static/js/main.2856cccb.js"
+  ]
+}
